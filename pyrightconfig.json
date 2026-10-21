@@ -1,0 +1,27 @@
+{
+  "include": [
+    "src",
+    "tests",
+    "app.py"
+  ],
+  "exclude": [
+    "venv",
+    "**/__pycache__"
+  ],
+  "reportMissingTypeStubs": false,
+  "extraPaths": [
+    "D:\\python\\Lib\\site-packages",
+    "d:\\COLLEGE\\Projects\\ChurnSense",
+    "d:\\COLLEGE\\Projects\\ChurnSense\\src"
+  ],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "D:\\python\\Lib\\site-packages",
+        "d:\\COLLEGE\\Projects\\ChurnSense",
+        "d:\\COLLEGE\\Projects\\ChurnSense\\src"
+      ]
+    }
+  ]
+}
